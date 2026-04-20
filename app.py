@@ -1,2 +1,3 @@
-# Programa de ejemplo
+# Programa de e
 print("MAIN - Sistema base")
+print("RAMA 1 - Registro de usuarios")
