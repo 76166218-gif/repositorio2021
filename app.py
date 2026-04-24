@@ -1,2 +1,2 @@
 # Programa de ejemplo
-print("RAMA 1 - Registro de usuarios")
+print("RAMA 1 - Registro usuarios")
